@@ -101,13 +101,13 @@ public class Test {
 			System.out.println(e.getMessage());
 		}*/
 		
-		System.out.println("============= 创建账户并且抵押 ===============");
+		/*System.out.println("============= 创建账户并且抵押 ===============");
 		try {
 			Transaction t2 = rpc.createAccount("5KAPo5n66XAJ4LkrW6MuQ25yCQzZFGRBVTfrtLUUyS3mB43XWGD","ulorduosudfs","vqq4oa45wglu", "UOS8gGsAaiNv8brnmbH27U1fkKJbqgryPmQBSYyZDeHKeCgGnthqu","UOS8gGsAaiNv8brnmbH27U1fkKJbqgryPmQBSYyZDeHKeCgGnthqu", 3072l, "0.1000 UOS","0.1000 UOS", 0l);
 			System.out.println("创建成功 = " + t2.getTransactionId()+" \n ");
 		}catch(Exception ex) {
 			ex.printStackTrace();
-		}
+		}*/
 		/*System.out.println("============= 创建账户不抵押 ===============");
 		try {
 			Transaction t3 = rpc.createAccount("5KAPo5n66XAJ4LkrW6MuQ25yCQzZFGRBVTfrtLUUyS3mB43XWGD","ulorduosudfs","eosqxyx22345", "EOS5NyNMtMEMS3BR5RJ3f4vhz4ZwXGndQ8f4CuGwpayEQ6GektHXf","EOS5NyNMtMEMS3BR5RJ3f4vhz4ZwXGndQ8f4CuGwpayEQ6GektHXf", 3072l);

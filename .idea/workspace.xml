@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e74616ab-b78d-4d0a-8cdd-e8dd7c80e111" name="Default Changelist" comment="" />
+    <list default="true" id="e74616ab-b78d-4d0a-8cdd-e8dd7c80e111" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/eblock/eos4j/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/eblock/eos4j/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/eblock/eos4j/ecc/EccTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/eblock/eos4j/ecc/EccTool.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,26 +30,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="5" />
-          <entry key="java" value="25" />
+          <entry key="java" value="26" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="26" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="146" />
+          <entry key="java" value="147" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="146" />
+          <entry key="JAVA" value="147" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -54,11 +57,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/eblock/eos4j/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="146" selection-start-line="146" selection-end-line="146" />
+            <state relative-caret-position="230">
+              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/eblock/eos4j/ecc/EccTool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -172,10 +187,14 @@
       <find>creat</find>
       <find>createAccount</find>
       <find>EOS</find>
+      <find>Transaction</find>
     </findStrings>
     <replaceStrings>
       <replace>uosio</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -199,6 +218,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/io/eblock/eos4j/utils/ByteUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/eblock/eos4j/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/eblock/eos4j/ecc/EccTool.java" />
       </list>
     </option>
   </component>
@@ -235,6 +255,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -282,10 +303,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="OfflineTest&#9;FILE&#9;file://E:/Working/eos_for_java-master/src/main/java/io/eblock/eos4j/OfflineTest.java&#10;Ecc&#9;FILE&#9;file://E:/Working/eos_for_java-master/src/main/java/io/eblock/eos4j/Ecc.java&#10;ByteUtils&#9;FILE&#9;file://E:/Working/eos_for_java-master/src/main/java/io/eblock/eos4j/utils/ByteUtils.java&#10;TableRowsReq &#9;PSI&#9;JAVA://io.eblock.eos4j.api.vo.TableRowsReq" />
+    <property name="SearchEverywhereHistoryKey" value="Ecc&#9;PSI&#9;JAVA://io.eblock.eos4j.ecc.EccTool&#10;OfflineTest&#9;FILE&#9;file://E:/Working/eos_for_java-master/src/main/java/io/eblock/eos4j/OfflineTest.java&#10;ByteUtils&#9;FILE&#9;file://E:/Working/eos_for_java-master/src/main/java/io/eblock/eos4j/utils/ByteUtils.java&#10;TableRowsReq &#9;PSI&#9;JAVA://io.eblock.eos4j.api.vo.TableRowsReq" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545186365816" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545188419790" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -342,22 +363,23 @@
       <option name="presentableId" value="Default" />
       <updated>1543976037198</updated>
       <workItem from="1543976040868" duration="30141000" />
-      <workItem from="1545183925915" duration="2478000" />
+      <workItem from="1545183925915" duration="4135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32619000" />
+    <option name="totallyTimeSpent" value="34276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21908316" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21908316" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32936078" />
@@ -365,8 +387,8 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3564464" />
-      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.30769232" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3557484" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.2733189" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -396,18 +418,6 @@
           <line>226</line>
           <properties />
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/io/eblock/eos4j/Test.java</url>
-          <line>103</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/io/eblock/eos4j/Test.java</url>
-          <line>105</line>
-          <properties />
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -579,8 +589,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/eblock/eos4j/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        <state relative-caret-position="230">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/eblock/eos4j/ecc/EccTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
         </state>
       </provider>
     </entry>
